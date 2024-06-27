@@ -1,0 +1,22 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.container {
+    color: white;
+    background-color: black;
+}
+
+.card {
+    color:white;
+    background-color: black;
+}
+
+/* img {
+    filter: opacity(40%);
+} */
+
+.row {
+    color: white;
+}
+
